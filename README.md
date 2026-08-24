@@ -4,7 +4,7 @@ This repository is for CMSC 128 Laboratory Activity 0 on Git and GitHub Organiza
 
 ## Group Members
 
+- Leona Mae Blancaflor
 - Kenneth G. Mondejar
-- Student 2
 - Gabrielle Sumergido
 - Student 4
