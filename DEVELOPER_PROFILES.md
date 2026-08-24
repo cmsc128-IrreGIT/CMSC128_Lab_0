@@ -18,7 +18,7 @@
 
 ## Gabrielle Sumergido
 
-- Preferred Name: <name>
+- Preferred Name: Gab
 - Skills: GDScript Programming, Game Prototyping & Implementation, Backend
 - Tools: VS Code, Godot Game Engine, Clip Studio Paint (CSP)
 - Field of Focus in Computer Science: Game Dev
