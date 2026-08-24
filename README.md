@@ -5,6 +5,6 @@ This repository is for CMSC 128 Laboratory Activity 0 on Git and GitHub Organiza
 ## Group Members
 
 - Student 1
-- Student 2
+- Leona Mae Blancaflor
 - Student 3
 - Student 4
