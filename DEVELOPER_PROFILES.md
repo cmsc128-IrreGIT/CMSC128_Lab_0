@@ -24,10 +24,10 @@
 - Field of Focus in Computer Science: Game Dev
 - Goal for This Semester: I want to pass the semester
 
-## <Student 4 Full Name>
+## Christie Jude Tarre
 
-- Preferred Name: <name>
-- Skills: <skill 1>, <skill 2>, <skill 3>
-- Tools: <tool 1>, <tool 2>, <tool 3>
-- Field of Focus in Computer Science: <example: Software Engineering, Web Development, Data Science, Networks, Cybersecurity>
-- Goal for This Semester: <one short sentence> 
+- Preferred Name: Jude
+- Skills: Frontend Development, UI/UX Design, Database Management
+- Tools: VS Code, Git/GitHub, Figma, React, Vite
+- Field of Focus in Computer Science: Software Engineering / Web Development
+- Goal for This Semester: To improve my development and design skills and make it through the semester without losing my sanity.
