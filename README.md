@@ -6,5 +6,5 @@ This repository is for CMSC 128 Laboratory Activity 0 on Git and GitHub Organiza
 
 - Student 1
 - Student 2
-- Student 3
+- Gabrielle Sumergido
 - Student 4
