@@ -4,7 +4,7 @@ This repository is for CMSC 128 Laboratory Activity 0 on Git and GitHub Organiza
 
 ## Group Members
 
-- Student 1
+- Kenneth G. Mondejar
 - Student 2
 - Student 3
 - Student 4
